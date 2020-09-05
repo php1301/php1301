@@ -13,7 +13,7 @@ I am currently pushing bachelor's degrees at Univeristy at Information Technolog
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const php1301 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Dart"],
     askMeAbout: ["web dev", "tech", "app dev", "mobile"],
