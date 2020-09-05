@@ -32,7 +32,7 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Pushing to Mobile field
+    currentProject: "Pushing to Mobile field",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
