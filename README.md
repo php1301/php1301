@@ -1,6 +1,6 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Phạm Hoàng Phúc! 🙏🏻</h2> 
 
-I am currently pushing bachelor's degrees at Univeristy at Information Technology - K14
+I am currently pushing bachelor's degrees at Univeristy Information Technology - K14
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Fullstack Web Developer and enthusiastic about React Native, Flutter, DevOps and CTO of <a href="https://www.facebook.com/webdevstudios.org">WebDev Studios</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
