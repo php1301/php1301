@@ -25,7 +25,8 @@ const php1301 = {
         },
         backEnd: {
             js: ["node", "Express", "NestJS", "Loopback"],
-            php
+            php,
+            golang
         },
         devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Apache", "CI/CD"],
         databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL"],
