@@ -15,7 +15,7 @@ I am currently pushing bachelor's degrees at Univeristy Information Technology -
 ```javascript
 const php1301 = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Dart", "Java"],
+    code: ["Javascript", "Typescript", "Dart", "Java", "Golang],
     askMeAbout: ["web dev", "tech", "app dev", "mobile"],
     technologies: {
         mobileApp: ["React Native", "Flutter"],
