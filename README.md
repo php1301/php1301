@@ -24,7 +24,7 @@ const php1301 = {
             css: ["Boostrap", "MaterialUI", "Antd", "Tailwind"]
         },
         backEnd: {
-            js: ["node", "Express", "NestJS", "Loopback"],
+            js: ["node", "Express", "NestJS", "Loopback", "Strapi],
             php,
             golang
         },
