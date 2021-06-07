@@ -28,7 +28,7 @@ const php1301 = {
             php,
             golang
         },
-        devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Apache", "CI/CD"],
+        devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Apache", "CI/CD", "Ansible", "Crossplane", Terraform],
         databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
     },
