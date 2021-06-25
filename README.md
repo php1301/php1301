@@ -44,7 +44,7 @@ const php1301 = {
 
 <p>
   <a href="https://github.com/php1301/php1301">
-        <img width="55%" align="right" alt="php1301's github stats" src="https://github-readme-stats.vercel.app/api?username=php1301&show_icons=true&hide_border=true" />
+        <img width="55%" align="right" alt="php1301's github stats" src="https://github-readme-stats.vercel.app/api?username=php1301&show_icons=true&hide_border=true&theme=react" />
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/curl_haxx/curl_haxx-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
