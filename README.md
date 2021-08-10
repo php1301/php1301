@@ -32,7 +32,7 @@ const php1301 = {
         databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "SOLID"],
     currentProject: "Pushing to Mobile field",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
