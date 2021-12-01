@@ -29,7 +29,7 @@ const php1301 = {
             golang
         },
         devOps: ["AWS", "GCP", "Docker🐳", "Route53", "Nginx", "Apache", "CI/CD", "Ansible", "Crossplane", Terraform],
-        databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL", "sqlite", "PostgreSQL", "Oracle"],
         misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "SOLID"],
