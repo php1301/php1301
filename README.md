@@ -33,7 +33,7 @@ const php1301 = {
         misc: ["Firebase", "Socket.IO", "WooCommerce", "WordPress", "php", "testing", "GraphqQL", "Prisma"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "SOLID"],
-    currentProject: "Pushing to Mobile field",
+    currentProject: "Pushing to DevOps field",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
