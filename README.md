@@ -73,7 +73,6 @@ const php1301 = {
 <img src="https://activity-graph.herokuapp.com/graph?username=php1301&theme=dracula" width="100%"/>
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-+ IELTS arc - I see
 + NAB arc - new
 + WeatherForecastArc - Part 2
 + Cyberpunk
