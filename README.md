@@ -74,7 +74,7 @@ const php1301 = {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-+ IELTS Arc - DOne But EOR
++ IELTS Arc - Remark
 + Playterview - Init
 + Try more Interview - Interviewarc - wise
 + Final UIT - Final One
