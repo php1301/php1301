@@ -76,7 +76,7 @@ const php1301 = {
 
 + IELTS Arc - Remark
 + Playterview - Init
-+ Try more Interview - Interviewarc - wise
++ Try more Interview - Interviewarc
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 ## Show ❤️ By Starring My Repos!
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
