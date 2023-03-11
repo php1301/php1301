@@ -75,6 +75,7 @@ const php1301 = {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 + Keep pushing
++ CS Fundamentals
 + IELTS Arc - Remark
 + Playterview - Init
 + Career... switch?
