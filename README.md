@@ -76,7 +76,6 @@ const php1301 = {
 
 + Keep pushing
 + CS Fundamentals
-+ IELTS Arc - Remark
 + Playterview - Init
 + Career... switch?
 + Try more Interview - Interviewarc
