@@ -76,7 +76,7 @@ const php1301 = {
 
 
 + Playterview - Init
-+ B2 arc - Let's get it
++ B2 arc - Really?
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
