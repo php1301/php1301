@@ -75,7 +75,7 @@ const php1301 = {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 
-+ K - Extremely growing
++ K -On Track
 + B2 arc - Revenge
 
 
