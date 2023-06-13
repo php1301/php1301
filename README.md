@@ -75,9 +75,8 @@ const php1301 = {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 
-+ K -On Track
-+ B2 arc - Revenge
-+ Graduation Arc
++ K - On Track
++ B2 arc - Here we go
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
