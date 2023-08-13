@@ -75,8 +75,8 @@ const php1301 = {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 
-+ K - On Track
-+ CKA arc - Networking
++ CKA arc - Done
++ Hashicorp Terraform Arc
 + French A1 arc
 
 
