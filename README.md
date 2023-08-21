@@ -76,7 +76,8 @@ const php1301 = {
 
 
 + CKA arc - Done
-+ Hashicorp Terraform Arc
++ Hashicorp Terraform Arc - Done
++ We are done
 + French A1 arc
 
 
