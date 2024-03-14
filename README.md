@@ -2,7 +2,7 @@
 Alias - Potter Pham - originally from Ho Chi Minh City, Vietnam <br />
 I am currently pushing Master's degrees in Computer Science at the Univeristy of Queensland
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Fullstack Web Developer and enthusiastic about React Native, Flutter, DevOps, Blockchain, Solidity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cloud / DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/phucproBB?label=Follow)
