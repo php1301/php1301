@@ -1,5 +1,5 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Phạm Hoàng Phúc! 🙏🏻</h2> 
-Alias - Potter Pham - originally from Ho Chi Minh City, Vietnam
+Alias - Potter Pham - originally from Ho Chi Minh City, Vietnam <br />
 I am currently pushing Master's degrees in Computer Science at the Univeristy of Queensland
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Fullstack Web Developer and enthusiastic about React Native, Flutter, DevOps, Blockchain, Solidity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
