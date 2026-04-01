@@ -1,6 +1,6 @@
 # 🙏🏻 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Phạm Hoàng Phúc! 🙏🏻</h2> 
 Alias - Potter Pham - originally from Ho Chi Minh City, Vietnam <br />
-I am currently pushing Master's degrees in Computer Science at the Univeristy of Queensland
+I am currently holding a Master's degree in Computer Science from the University of Queensland
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Cloud / DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -74,29 +74,8 @@ const php1301 = {
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-+ French B1 arc - Écoutez tv5monde
++ Settling in Vancouver, BC
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with everyone</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-## Show ❤️ By Starring My Repos!
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/DoAnFullstack-ui" title="DoAnFullstack-ui"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=DoAnFullstack-ui&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a align="right" href="https://github.com/php1301/DoAnReactJS" title="DoAnReactJS"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=DoAnReactJS&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-    <a align="left" href="https://github.com/php1301/DoAnFullstack-BE-Admin" title="DoAnFullstack-BE-Admin"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=DoAnFullstack-BE-Admin&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/php1301/php1301.github.io" title="php1301.github.io"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=php1301.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/php1301/mercee-FE" title="mercee-FE"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=mercee-FE&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/php1301/Land-Of-DevOps" title="Land-Of-DevOps"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=php1301&repo=Land-Of-DevOps&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/php1301?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
